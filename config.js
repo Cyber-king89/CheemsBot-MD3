@@ -58,7 +58,7 @@ global.reactmoji = "😘"
 global.ownertag = ['919645697828'] //ur owner tag
 global.ownernummenu = ['919645697828'] //ur owner number in menu and all
 global.watermark = "Xeon Bot Inc." //ur watermark
-global.botscript = "https://github.com/BADBMODER"
+global.botscript = "ITS PRIVATE BROO CONTACT ME WHATSAPP +15878150226"
 global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CyeQbHoS"
 global.linkz2 = "https://chat.whatsapp.com/EcycNbJF5ZsG9xIGkqd"
 
